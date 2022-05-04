@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+			    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://localhost/travels/index.php/al/6/kryefaqe</loc>
+	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/travels/index.php/en/6/kryefaqe"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/en/6/home</loc>
+	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="al"
+        href="http://localhost/travels/index.php/al/6/home"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/en/152</loc>
+	<lastmod>2014-04-06T16:21:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="al"
+        href="http://localhost/travels/index.php/al/152"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/al/152</loc>
+	<lastmod>2014-04-06T16:21:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/travels/index.php/en/152"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/en/155/test_news_category</loc>
+	<lastmod>2014-04-06T20:13:51+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="al"
+        href="http://localhost/travels/index.php/al/155/test_news_category"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/al/155/test_news_category</loc>
+	<lastmod>2014-04-06T20:13:51+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/travels/index.php/en/155/test_news_category"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/en/159/test_news_category_2</loc>
+	<lastmod>2014-04-15T18:37:33+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="al"
+        href="http://localhost/travels/index.php/al/159/test_news_category_2"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/al/159/test_news_category_2</loc>
+	<lastmod>2014-04-15T18:37:33+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/travels/index.php/en/159/test_news_category_2"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/en/151</loc>
+	<lastmod>2014-04-06T16:07:03+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="al"
+        href="http://localhost/travels/index.php/al/151"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/al/151</loc>
+	<lastmod>2014-04-06T16:07:03+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/travels/index.php/en/151"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/al/5/rreth_nesh</loc>
+	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/travels/index.php/en/5/rreth_nesh"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/en/5/about_us</loc>
+	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="al"
+        href="http://localhost/travels/index.php/al/5/about_us"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/en/143/custom_search</loc>
+	<lastmod>2014-02-10T10:54:19+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="al"
+        href="http://localhost/travels/index.php/al/143/custom_search"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/al/143/custom_search</loc>
+	<lastmod>2014-02-10T10:54:19+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/travels/index.php/en/143/custom_search"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/en/154/test_news</loc>
+	<lastmod>2014-04-06T20:01:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="al"
+        href="http://localhost/travels/index.php/al/154/test_news"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/al/154/test_news</loc>
+	<lastmod>2014-04-06T20:01:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/travels/index.php/en/154/test_news"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/al/4/na_kontaktoni</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/travels/index.php/en/4/na_kontaktoni"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/en/4/contact</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="al"
+        href="http://localhost/travels/index.php/al/4/contact"
+    />
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/18/al/cemetery</loc>
+	<lastmod>2015-10-09T21:43:59+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/18/en/cemetery</loc>
+	<lastmod>2015-10-09T21:43:59+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/11/al/center_korzo</loc>
+	<lastmod>2015-10-09T21:44:14+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/11/en/center_korzo</loc>
+	<lastmod>2015-10-09T21:44:14+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/4/al/domenico</loc>
+	<lastmod>2015-10-09T21:44:57+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/4/en/domenico</loc>
+	<lastmod>2015-10-09T21:44:57+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/2/al/the_old_town</loc>
+	<lastmod>2015-10-09T21:45:01+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/2/en/the_old_town</loc>
+	<lastmod>2015-10-09T21:45:01+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/1/al/promenade_vatroslava_jagica</loc>
+	<lastmod>2015-10-09T21:45:10+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/1/en/promenade_vatroslava_jagica</loc>
+	<lastmod>2015-10-09T21:45:10+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/20/al/six</loc>
+	<lastmod>2015-10-09T21:42:24+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/20/en/six</loc>
+	<lastmod>2015-10-09T21:42:24+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/19/al/restoran_angelus</loc>
+	<lastmod>2015-10-09T21:43:57+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/19/en/restoran_angelus</loc>
+	<lastmod>2015-10-09T21:43:57+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/17/al/hz_putnicki_prijevoz</loc>
+	<lastmod>2015-10-09T21:44:01+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/17/en/hz_putnicki_prijevoz</loc>
+	<lastmod>2015-10-09T21:44:01+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/16/al/ap_varazdin</loc>
+	<lastmod>2015-10-09T21:44:03+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/16/en/ap_varazdin</loc>
+	<lastmod>2015-10-09T21:44:03+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/15/al/pu_varazdinska</loc>
+	<lastmod>2015-10-09T21:44:05+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/15/en/pu_varazdinska</loc>
+	<lastmod>2015-10-09T21:44:05+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/14/al/opca_bolnica_varazdin</loc>
+	<lastmod>2015-10-09T21:44:07+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/14/en/opca_bolnica_varazdin</loc>
+	<lastmod>2015-10-09T21:44:07+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/13/al/hotel_turist</loc>
+	<lastmod>2015-10-09T21:44:09+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/13/en/hotel_turist</loc>
+	<lastmod>2015-10-09T21:44:09+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/12/al/franjevacki_trg</loc>
+	<lastmod>2015-10-09T21:44:12+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/12/en/franjevacki_trg</loc>
+	<lastmod>2015-10-09T21:44:12+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/10/al/mea_culpa_bar</loc>
+	<lastmod>2015-10-09T21:44:16+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/10/en/mea_culpa_bar</loc>
+	<lastmod>2015-10-09T21:44:16+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/9/al/supernova</loc>
+	<lastmod>2015-10-09T21:44:18+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/9/en/supernova</loc>
+	<lastmod>2015-10-09T21:44:18+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/8/al/faculty_of_organization_and_informatics</loc>
+	<lastmod>2015-10-09T21:44:20+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/8/en/faculty_of_organization_and_informatics</loc>
+	<lastmod>2015-10-09T21:44:20+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/7/al/nk_varteks</loc>
+	<lastmod>2015-10-09T21:44:50+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/7/en/nk_varteks</loc>
+	<lastmod>2015-10-09T21:44:50+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/6/al/coffeehouse</loc>
+	<lastmod>2015-10-09T21:44:52+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/6/en/coffeehouse</loc>
+	<lastmod>2015-10-09T21:44:52+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/5/al/fountain</loc>
+	<lastmod>2015-10-09T21:44:55+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/5/en/fountain</loc>
+	<lastmod>2015-10-09T21:44:55+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/3/al/movie_gallery</loc>
+	<lastmod>2015-10-09T21:44:59+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/travels/index.php/property/3/en/movie_gallery</loc>
+	<lastmod>2015-10-09T21:44:59+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+</urlset>
